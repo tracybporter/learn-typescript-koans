@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hackages/typescript.koans.git"
+    "url": "git+https://github.com/tracybporter/learn-typescript-koans.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hackages/typescript.koans/issues"
+    "url": "https://github.com/tracybporter/learn-typescript-koans.git"
   },
-  "homepage": "https://github.com/hackages/typescript.koans#readme",
+  "homepage": "https://github.com/tracybporter/learn-typescript-koans.git#readme",
   "devDependencies": {
     "@types/chai": "^3.4.34",
     "@types/mocha": "^2.2.32",
